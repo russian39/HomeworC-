@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqVwPH2cTV4eR4IWYHEU1aYRSaDjc9ow5Ry0293MDp76Ud4aoefk15JzbNHeTlLINhk5FzwAZUVIovZmLnSeVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий Фалин\\source\\repos\\АнтиповВиктор.Урок1\\classPause\\classPause.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий Фалин\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Юрий Фалин\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
