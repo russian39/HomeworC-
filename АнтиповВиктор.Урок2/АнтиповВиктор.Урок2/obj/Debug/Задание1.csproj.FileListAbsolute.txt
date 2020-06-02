@@ -1,0 +1,7 @@
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\bin\Debug\АнтиповВиктор.Урок2.exe.config
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\bin\Debug\АнтиповВиктор.Урок2.exe
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\bin\Debug\АнтиповВиктор.Урок2.pdb
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\obj\Debug\Задание1.csprojAssemblyReference.cache
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\obj\Debug\Задание1.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\obj\Debug\АнтиповВиктор.Урок2.exe
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок2\АнтиповВиктор.Урок2\obj\Debug\АнтиповВиктор.Урок2.pdb
