@@ -1,0 +1,6 @@
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок5\Задание2\bin\Debug\Задание2.exe.config
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок5\Задание2\bin\Debug\Задание2.exe
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок5\Задание2\bin\Debug\Задание2.pdb
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок5\Задание2\obj\Debug\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок5\Задание2\obj\Debug\Задание2.exe
+C:\Users\Юрий Фалин\source\repos\АнтиповВиктор.Урок5\Задание2\obj\Debug\Задание2.pdb
